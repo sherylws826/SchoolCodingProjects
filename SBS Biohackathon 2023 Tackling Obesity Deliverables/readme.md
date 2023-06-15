@@ -3,7 +3,7 @@
 
 Selected Problem statement 2: Research and discover the science of obesity
 
-**Datasets: **
+**Datasets:**
 
 Obesity dataset.csv (Source: ScienceDirect)
 
