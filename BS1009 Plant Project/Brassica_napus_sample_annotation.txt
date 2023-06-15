@@ -1,0 +1,934 @@
+RNA-seq sample ID	PO ID	PO term description (TISSUE)	Age (days)/ Development stage	Description	
+SRR7135736	PO:0009089	endosperm	cotelydon dev stage	YN171 cultivar	
+SRR8138197	PO:0000055	bud	bolting dev stage	Young bud. Shaan2A cultivar.	
+SRR9944815	PO:0025034	leaf	11 days	Biological replicate 2	
+SRR9944819	PO:0025034	leaf	9 days	Biological replicate 1	
+SRR9944835	PO:0025034	leaf	11 days	Biological replicate 1	
+SRR9944851	PO:0020030	cotyledon	7 days	Biological replicate 1	
+SRR9944854	PO:0025029	top shoot	7 days	Biological replicate 1	
+SRR8328128	PO:0006473	anther	prophase 1 dev stage	Yudal cultivar. Biological replicate plant_7. Haploid genotype.	
+SRR8328131	PO:0006473	anther	prophase 1 dev stage	Darmor-bzh cultivar. Biological replicate plant_3. Haploid genotype.	
+SRR7895220	PO:0001185	globular seed		Topas cultivar	
+SRR7895226	PO:0001185	globular seed		Topas cultivar	
+ERR3280982	PO:0009006	shoot system	"10 days, seedling dev stage"	Samples were collected on days one and five post-infection with P. aeruginosa. The whole plant was sectioned in two at the root junction before the RNA was extracted. DNA was removed from all of the RNA samples using the DNA-free kit (Invitrogenª). Total RNA (1_g) was used for preparing the library with TrueSeq RNA sample Prep Kit v2 (Illumina¨) according to manufacturerÕs guidelines with 24 different barcodes (two biological replicates).	
+SRR8476612	PO:0020107	fruit	maturation dev stage	Transgene -positive cultivar. Biological replicate 3.	
+SRR8477020	PO:0009047	stem	grey moss period14 dev stage	Cultivar 14	
+SRR8477032	PO:0009047	stem 	grey moss period8 dev stage	Cultivar 8	
+SRR9037424	PO:0008037	seedling aerial			
+SRR8398868	PO:0000055	bud	age not collected; flowering dev stage	Cultivar 160s. Temperature of 18. Male fertile.	
+SRR7637975	PO:0025034	leaf	6-week-old rapesees	Strain 4F5-2	
+SRR7637977	PO:0025034	leaf	6-week-old rapesees	Strain 4BM1-1	
+SRR8245086			"planting date=12-02-17\, harvest date=28-03-17"	Treatment: No Si (silicon)	
+SRR8245092	PO:0003006	root	"planting date=12-02-17\, harvest date=28-03-17"	Treatment: No Si (silicon)	
+SRR8283966	PO:0020142	internode	flowering dev stage	Sca mutant cultivar. Biological replicate 1.	
+SRR8283968	PO:0020142	internode	flowering dev stage	Huashuang5 cultivar. Biological replicate 2.	
+SRR7880325	PO:0020107	fruit			
+SRR7880337	PO:0020107	fruit			
+SRR8371848	PO:0006473	anther	bolting dev stage	KC01 cultivar. Tissue sample 4.	
+SRR8371852	PO:0006473	anther	bolting dev stage	KC01 cultivar. Tissue sample 6.	
+SRR7814571	PO:0003006	root	"30 days after planting, rosette dev stage"	30 day old roots of winter-biotype canola Regal. Plants grown at 25C and under light for 14 hr. Regal cultivar.	
+SRR7814572	PO:0003006	root	"30 days after planting, rosette dev stage"	30 day old roots of winter-biotype canola Wester. Plants grown at 25C and under light for 14 hr. Wester cultivar.	
+SRR7814579	PO:0003006	root	"60 days after planting, rosette dev stage"	60 day old roots of winter-biotype canola Regal. Plants grown at 25C and under light for 14 hr. Regal cultivar.	
+SRR7816635	PO:0009047	stem	"10 DAP, reproductive growth dev stage"	Darmor cultivar	
+SRR7816638	PO:0025034	leaf	"10 DAP, reproductive growth dev stage"	Darmor cultivar	
+SRR7814561	PO:0003006	root	"60 days after planting, rosette dev stage"	60 day old roots of winter-biotype canola Lindora. Plants grown at 25C and under light for 14 hr. Lindora cultivar.	
+SRR7764350	PO:0025034	leaf	21 days	Replicate 3. Control treatment. Sentry summer rape cultivar.	
+SRR7764355	PO:0025034	leaf	21 days	Replicate 3. Drought treatment. Sentry summer rape cultivar.	
+SRR7764358	PO:0025034	leaf	21 days	Replicate 3. Cold treatment. Sentry summer rape cultivar.	
+SRR5208533	PO:0006473	anther	prophase 1 dev stage	Yudal cultivar. Biological replicate plant_10. Euploid genotype.	
+SRR5208538	PO:0006473	anther	prophase 1 dev stage	Darmor-bzh cultivar. Biological replicate plant_5. Euploid genotype.	
+SRR5208539	PO:0006473	anther	prophase 1 dev stage	Darmor-bzh cultivar. Biological replicate plant_4. Euploid genotype.	
+SRR5208540	PO:0006473	anther	prophase 1 dev stage	Darmor-bzh cultivar. Biological replicate plant_4. Euploid genotype.	
+SRR6466850	PO:0025034	leaf	30 days (a month)	Resynthesized B. napus cultivar	
+SRR6466863	PO:0025034	leaf	30 days (a month)	Resynthesized B. napus cultivar	
+SRR6466871	PO:0025034	leaf	30 days (a month)	Resynthesized B. napus cultivar	
+SRR6466875	PO:0025034	leaf	30 days (a month)	Resynthesized B. napus cultivar	
+SRR6467496	PO:0025034	leaf	"21 days, 3 leaves dev stage"	Introgression Line cultivar	
+SRR6467500	PO:0025034	leaf	"21 days, 3 leaves dev stage"	Introgression Line cultivar	
+SRR6467506	PO:0025034	leaf	"21 days, 3 leaves dev stage"	Introgression Line cultivar	
+SRR10124033	PO:0025034	leaf	83 days		
+SRR10124038	PO:0025034	leaf	22 days		
+SRR10124041	PO:0025550	apex	72 days		
+SRR10124048	PO:0025034	leaf	67 days		
+SRR10058958	PO:0009088	seed coat	35DAF	The yellow seed in 35DAF. Biological replicate 2.	
+SRR10058960	PO:0009088	seed coat	14DAF	The yellow seed in 14DAF. Biological replicate 3.	
+SRR10058963	PO:0009088	seed coat	14DAF	The yellow seed in 14DAF	
+SRR10058964	PO:0009088	seed coat	14DAF	The yellow seed in 14DAF	
+SRR8442220	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442222	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442228	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442235	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442242	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442245	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442248	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442252	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442254	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442260	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442261	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442263	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442264	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442266	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442272	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442280	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR8442281	PO:0020107	fruit	silique of 15d	"Ecotype: spring, winter, semi-winter"	
+SRR1783156	PO:0025034	leaf	26 days	"PEG2 line, biological replicate 2. L. spp. oleifera (Metzg) Sinsk. f. biennis cultivar."	
+SRR1783191	PO:0025034	leaf	26 days	L. spp. oleifera (Metzg) Sinsk. f. biennis cultivar	
+SRR793851				Polima breed	
+SRR2748081	PO:0020030	cotyledon	"15 days after germination, seedling dev stage"	Westar cultivar. Napus variety.	
+SRR2748082	PO:0020030	cotyledon	"17 days after germination, seedling dev stage"	Westar cultivar. Napus variety.	
+SRR2748083	PO:0020030	cotyledon	"19 days after germination, seedling dev stage"	Westar cultivar. Napus variety.	
+SRR2086704	PO:0025034	leaf	vegetative dev stage	Zhongshuang 11 cultivar. Napus variety.	
+ERR338499				"Brassica napus cv. 'Temple', 3h after infiltration with flg22, biological replicate 1. Polima breed."	
+ERR037299	PO:0025034	leaf		Doubled haploid line TN24 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037302	PO:0025034	leaf		Doubled haploid line TN12 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037309	PO:0025034	leaf		Doubled haploid line TN57 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037311	PO:0025034	leaf		Doubled haploid line TN76 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037326	PO:0025034	leaf		Doubled haploid line TN149 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037329	PO:0025034	leaf		Doubled haploid line TN170 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037330	PO:0025034	leaf		Doubled haploid line TN176 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037331	PO:0025034	leaf		Doubled haploid line TN177 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037332	PO:0025034	leaf		Doubled haploid line TN171 from Tapidor x Ningyou 7 mapping population genotype	
+ERR037333	PO:0025034	leaf		Doubled haploid line TN172 from Tapidor x Ningyou 7 mapping population genotype	
+SRR1793911	PO:0009047	stem	at the termination of flowering	J964 cultivar. Treatment: S. sclerotiorum inoculated. Disease: Sclerotinia stem rot. Disease stage: 96h post inoculation replicate 1.	
+ERR049702				B. rapa Ro18 x B.oleracea A12DH genotype	
+SRR1732358	PO:0000003	whole plant	seedling dev stage	07Y29 cultivar	
+ERR420237				Doubled haploid line TN018 from Tapidor x Ningyou 7 mapping population	
+ERR420240				Doubled haploid line TN032 from Tapidor x Ningyou 7 mapping population	
+ERR420255				Doubled haploid line TN093 from Tapidor x Ningyou 7 mapping population	
+ERR420256				Doubled haploid line TN097 from Tapidor x Ningyou 7 mapping population	
+ERR420265				Doubled haploid line TN160 from Tapidor x Ningyou 7 mapping population	
+ERR420269				Doubled haploid line TN181 from Tapidor x Ningyou 7 mapping population	
+SRR3349850	PO:0009010	seed	20 days after flowering	Isolate: Seeds on the primary branch in high harvest index accessions at YN replicate 2	
+SRR3352389	PO:0009010	seed	20 days after flowering	Isolate: Seeds on the primary branch in high harvest index accessions at YN replicate 2	
+SRR7171197	PO:0020107	fruit	late-silique dev stage	Sample_F2_122 cultivar	
+SRR7171205	PO:0020107	fruit	late-silique dev stage	Sample_F2_14 cultivar	
+SRR7171213	PO:0020107	fruit	late-silique dev stage	Sample_F2_181 cultivar	
+SRR7171223	PO:0020107	fruit	late-silique dev stage	Sample_F2_20 cultivar	
+SRR7171225	PO:0020107	fruit	late-silique dev stage	Sample_F2_202 cultivar	
+SRR7171235	PO:0020107	fruit	late-silique dev stage	Sample_F2_32 cultivar	
+SRR7171246	PO:0020107	fruit	late-silique dev stage	Sample_F2_94 cultivar	
+SRR7171253	PO:0020107	fruit	late-silique dev stage	Sample_F2_98 cultivar	
+SRR7171256	PO:0020107	fruit	late-silique dev stage	Sample_F2_76 cultivar	
+SRR7171258	PO:0020107	fruit	late-silique dev stage	Sample_F2_78 cultivar	
+SRR7171272	PO:0020107	fruit	early-silique dev stage	Da-Ol-1 cultivar	
+SRR7171287	PO:0020107	fruit	late-silique dev stage	Sample_F2_38 cultivar	
+SRR7171289	PO:0020107	fruit	late-silique dev stage	Sample_F2_36 cultivar	
+SRR7171295	PO:0020107	fruit	late-silique dev stage	Sample_F2_81 cultivar	
+SRR7171298	PO:0020107	fruit	late-silique dev stage	Sample_F2_87 cultivar	
+SRR7171302	PO:0020107	fruit	late-silique dev stage	Sample_F2_3 cultivar	
+SRR7171313	PO:0020107	fruit	late-silique dev stage	Sample_F2_231 cultivar	
+SRR7171320	PO:0020107	fruit	late-silique dev stage	Sample_F2_214 cultivar	
+SRR7171329	PO:0004541	flower	flowering dev stage	Da-ae cultivar	
+SRR7171331	PO:0004541	flower	flowering dev stage	Da-Ol-1 cultivar	
+SRR7171342	PO:0020107	fruit	late-silique dev stage	Sample_F2_101 cultivar	
+SRR7171357	PO:0020107	fruit	late-silique dev stage	Sample_F2_51 cultivar	
+SRR7171365	PO:0020107	fruit	late-silique dev stage	Sample_F2_42 cultivar	
+SRR7171369	PO:0020107	fruit	late-silique dev stage	Sample_F2_12 cultivar	
+SRR7171385	PO:0020107	fruit	late-silique dev stage	Sample_F2_63 cultivar	
+SRR7171386	PO:0020107	fruit	late-silique dev stage	Sample_F2_62 cultivar	
+SRR10951021	PO:0025034	leaf	seedling dev stage	Epidermis cell. Biological replicate 3.	
+SRR8632082	PO:0025034	leaf	30 days (a month)	B. napus cultivar	
+SRR8632102	PO:0025034	leaf	30 days (a month)	B. napus cultivar	
+SRR9329508	PO:0025034	leaf 	"1 day, pod stage"		
+SRR10848735	PO:0000055	bud	165 days (five and a half months)		
+SRR10848745	PO:0009032	petal	165 days (five and a half months)		
+SRR10848751	PO:0009032	petal	165 days (five and a half months)		
+SRR8699009	PO:0004709	axillary bud	the plants were grown	"Inbred material, late flowering and few branches"	
+SRR8551525	PO:0025034	leaf	seedling dev stage	V299 cultivar. V299T3-1 treatment. Replication1.	
+SRR8551530	PO:0025034	leaf	seedling dev stage	V299 cultivar. V299CK-2 treatment. Replication2.	
+SRR8632073	PO:0025034	leaf	30 days (a month)	B. napus cultivar	
+SRR8632084	PO:0025034	leaf	30 days (a month)	B. napus cultivar	
+SRR11443978	PO:0009047	stem	seed dev stage	DH lines cultivar	
+SRR11412350	PO:0025034	leaf	BBCH60 dev stage	Campari cultivar. 8 days drought stress treatment. Biological replicate 3.	
+SRR11412358	PO:0025034	leaf	BBCH60 dev stage	NKNemax cultivar. Well-watered treatment. Biological replicate 3.	
+SRR11412377	PO:0025034	leaf	BBCH60 dev stage	Musette cultivar. Well-watered treatment. Biological replicate 3.	
+SRR11412436	PO:0025034	leaf	BBCH60 dev stage	Campari cultivar. 8 days drought stress treatment. Biological replicate 1.	
+SRR11412438	PO:0025034	leaf	BBCH60 dev stage	NKNemax cultivar. 8 days drought stress treatment. Biological replicate 3.	
+SRR11412439	PO:0025034	leaf	BBCH65 dev stage	Campari cultivar. Well-watered treatment. Biological replicate 3.	
+SRR11412447	PO:0025034	leaf	BBCH65 dev stage	NKNemax cultivar. Well-watered treatment. Biological replicate 1.	
+SRR11412464	PO:0025034	leaf	BBCH60 dev stage	Pollen cultivar. 8 days drought stress treatment. Biological replicate 2.	
+SRR11412568	PO:0025034	leaf	BBCH60 dev stage	Alaska cultivar. Well-watered treatment. Biological replicate 3.	
+SRR11412569	PO:0025034	leaf	BBCH65 dev stage	Pollen cultivar. Well-watered treatment. Biological replicate 1.	
+SRR11412571	PO:0025034	leaf	BBCH65 dev stage	Campari cultivar. Well-watered treatment. Biological replicate 2.	
+SRR11412589	PO:0025034	leaf	BBCH65 dev stage	Campari cultivar. Well-watered treatment. Biological replicate 1.	
+SRR11412592	PO:0025034	leaf	BBCH60 dev stage	Hokkai3Go cultivar. Well-watered treatment. Biological replicate 1.	
+SRR11412595	PO:0025034	leaf	BBCH60 dev stage	Alaska cultivar. Well-watered treatment. Biological replicate 1.	
+SRR9599658	PO:0025034	leaf	"175 days after sowing\, after vernalization"	Wester cultivar. Biological replicate 2.	
+SRR12429706	PO:0025034	leaf		Heat treated	
+SRR11697966	PO:0009047	stem	seed dev stage	DH-line 2 cultivar. Sclerotinia infection.	
+SRR11697969	PO:0009047	stem	seed dev stage	DH-line 2 cultivar. Sclerotinia infection.	
+SRR11697972	PO:0009047	stem	seed dev stage	DH-line 2 cultivar. Sclerotinia infection.	
+ERR3850132				"Napus variety. 36 dai, Healthy Plant, Low Soil Microbial Diversity, Tenor Genotype, Replicate A."	
+ERR3850147				"Napus variety. 48 dai, Infected Plant, High Soil Microbial Diversity, Yudal Genotype, Replicate A."	
+ERR3850153				"Napus variety. 48 dai, Infected Plant, Low Soil Microbial Diversity, Yudal Genotype, Replicate A."	
+ERR3850163				"Napus variety. 28 dai, Healthy Plant, High Soil Microbial Diversity, Tenor Genotype, Replicate B."	
+ERR3850167				"Napus variety. 28 dai, Healthy Plant, High Soil Microbial Diversity, Yudal Genotype, Replicate C."	
+ERR3850173				"Napus variety. 28 dai, Healthy Plant, Low Soil Microbial Diversity, Yudal Genotype, Replicate C."	
+ERR3850174				"Napus variety. 28 dai, Healthy Plant, Medium Soil Microbial Diversity, Tenor Genotype, Replicate A."	
+ERR3850180				"Napus variety. 28 dai, Infected Plant, High Soil Microbial Diversity, Tenor Genotype, Replicate A."	
+ERR3850188				"Napus variety. 28 dai, Infected Plant, Low Soil Microbial Diversity, Tenor Genotype, Replicate C."	
+ERR3850193				"Napus variety. 28 dai, Infected Plant, Medium Soil Microbial Diversity, Tenor Genotype, Replicate B."	
+ERR3850196				"Napus variety. 28 dai, Infected Plant, Medium Soil Microbial Diversity, Yudal Genotype, Replicate B."	
+SRR12083623				Treated with heat shock and addition of 0.05µM TSA. DH12075 genotype.	
+SRR3134199	PO:0025034	leaf	vegetative- rosette	E94197 cultivar	
+SRR3134291	PO:0025034	leaf	vegetative- rosette	Kajsa cultivar	
+SRR3134341	PO:0025034	leaf	vegetative- rosette	Zephyr cultivar	
+SRR12077450	PO:0020100	hypocotyl	"14 d, leaf dev stage"	Huashaung 4 cultivar	
+SRR12123633	PO:0003006	root	not collected		
+SRR12123638	PO:0003006	root	not collected		
+SRR12123651	PO:0003006	root	not collected		
+SRR12123658	PO:0003006	root	not collected		
+SRR12123664	PO:0003006	root	not collected		
+SRR9694959	PO:0025034	leaf	"28 days, young leaves dev stage"	"Intersex, biological replicate 1"	
+SRR9694961	PO:0025034	leaf	"28 days, young leaves dev stage"	"Intersex, biological replicate 2"	
+SRR9694966	PO:0025034	leaf	"28 days, young leaves dev stage"	"Intersex, biological replicate 2"	
+SRR11845015				Aviso variety	
+SRR11845022				Aviso variety	
+SRR11845359				Darmor variety	
+SRR11845385				Darmor variety	
+SRR11845401				Darmor variety	
+SRR11846529				Stellar variety	
+SRR11846540				Stellar variety	
+SRR10529462	PO:0006480	microspore	0 days	Untreated	
+SRR3928472	PO:0025034	leaf			
+SRR3928473	PO:0025034	leaf			
+SRR6685965	PO:0025004	plant axis	22 days	"Westar variety, cultivated at 16 degree celcius"	
+SRR6685973	PO:0025004	plant axis	65 days	"Westar variety, cultivated at 16 degree celcius"	
+SRR6685970	PO:0025004	plant axis	67 days	"Westar variety, cultivated at 16 degree celcius"	
+SRR6685984	PO:0025034	leaf	67 days	"Westar variety, cultivated at 16 degree celcius"	
+ERR117334	PO:0025034	leaf 	21 days	Cell line 'Bolko' (genotype)	
+ERR117347	PO:0025034	leaf 	21 days	S3 cell line 'Norin'	
+ERR117349	PO:0025034	leaf 	21 days	Synthetic cell line Q100	
+ERR117355	PO:0025034	leaf 	21 days	S3 cell line 'Tina'	
+ERR117357	PO:0025034	leaf 	21 days	Doubled haploid cell line 'Westar 10'	
+ERR117378	PO:0025034	leaf 	21 days	Doubled haploid cell line 'English Giant'	
+ERR117379	PO:0025034	leaf 	21 days	Doubled haploid cell line 'Erglu'	
+ERR117385	PO:0025034	leaf 	21 days	Doubled haploid cell line 'Lembkes Malchower'	
+ERR117403	PO:0025034	leaf 	21 days	Cell line 'Vision'	
+ERR117404	PO:0025034	leaf 	21 days	S3 cell line 'York'	
+SRR2641043	PO:0025034	leaf	70 days old	Purple phenotype	
+SRR2641156	PO:0025034	leaf	70 days old	Green phenotype	
+SRR3355337	PO:0009010	seed	20 days after flowering	Seeds on the main inflorescence in high harvest index accessions at YN replicate 1	
+SRR3355360	PO:0000055	bud	flowering stage	Bud on the primary branch in high harvest index accessions at YN replicate 1	
+SRR3062291	PO:0025034	leaf	7 days after germination	Grown at low temperature	
+SRR6865639	PO:0020107	fruit	the small silique with length of 1-2 cm	"ZS11 cultivar, biological replicate 1"	
+SRR6865640	PO:0003006	root	trefoil stage	"ZS11 cultivar, biological replicate 1"	
+SRR6865645			grew for 3-4 weeks after hypocotyls were transferred to the culture medium in darkness	Heat-shocked at 37 degree celcius for 3h	
+SRR6865647	PO:0003006	root	trefoil stage	"ZS11 cultivar, biological replicate 2"	
+SRR6002855			5-leaf stage	Rongyou No. 16 cultivar	
+SRR6002857			5-leaf stage	Phosphorous deficiency	
+SRR6002861			3-leaf stage	Phosphorous deficiency	
+SRR6004384	PO:0000055	bud	flowering dev stage	Napus variety	
+SRR6004385	PO:0000055	bud	flowering dev stage	Napus variety	
+SRR6974186	PO:0025034	leaf	40-day-old seedlings	Resynthesized B.napus cultivar	
+SRR3157055	PO:0020030	cotyledon		"Westar genotype, 11 day post- inoculated with Leptosphaeria maculans pathogen"	
+SRR3157057	PO:0020030	cotyledon		Westar genotype	
+SRR3157063	PO:0020030	cotyledon		"DF78 (LepR1) genotype, 3 day post- inoculated with Leptosphaeria maculans pathogen"	
+SRR3157065	PO:0020030	cotyledon		DF78 (LepR1) genotype	
+SRR3157068	PO:0020030	cotyledon		"DF78 (LepR1) genotype, 7 day post- inoculated with Leptosphaeria maculans pathogen"	
+SRR5905522	PO:0020148	shoot apical meristem	transition meristem dev stage	ZYZ108 cultivar	
+SRR5905528	PO:0020148	shoot apical meristem	flower meristem initation dev stage	ZYZ108 cultivar	
+SRR5905536	PO:0020148	shoot apical meristem	flower meristem initation dev stage	ZYZ108 cultivar	
+SRR5905537	PO:0020148	shoot apical meristem	flower meristem initation dev stage	ZYZ108 cultivar	
+SRR5905540	PO:0020148	shoot apical meristem	transition meristem stage	ZYZ108 cultivar	
+SRR6785550	PO:0008037	seedling	seedling dev stage	Zhongshuang 11 cultivar	
+SRR3950005	PO:0025034	leaf	30% flowering dev stage	Water treatment	
+SRR3950008	PO:0025034	leaf	30% flowering dev stage	Treated with Pseudomonas chlororaphis PA23 biological control agent	
+SRR1424584	PO:0009009	embryo			
+SRR5816406	PO:0025034	leaf	seedling stage	"Napus variety, old leaf"	
+SRR5816407	PO:0025034	leaf	seedling stage	"Napus variety, old leaf"	
+SRR5816411	PO:0003006	root	seedling stage	Napus variety	
+SRR5816422	PO:0025034	leaf	seedling stage	"Napus variety, juvenile leaf"	
+SRR5816423	PO:0025034	leaf	seedling stage	"Napus variety, juvenile leaf"	
+SRR5816427	PO:0025034	leaf	seedling stage	"Napus variety, old leaf"	
+SRR5816435	PO:0025034	leaf	seedling stage	"Napus variety, old leaf"	
+SRR5802440	PO:0009009	embryo	germination stage	HWY-LT-5d-1 treatment	
+SRR5802445	PO:0009009	embryo	germination stage	HWY-CK-3d-1 treatment	
+SRR5802446	PO:0009009	embryo	germination stage	HWY-LT-3d-3 treatment	
+SRR5802449	PO:0009009	embryo	germination stage	HWY-CK-5d-1 treatment	
+SRR5802452	PO:0009009	embryo	germination stage	HWY-LT-5d-2 treatment	
+SRR5802453	PO:0009009	embryo	germination stage	GYZ-CK-1d-1 treatment	
+SRR5802456	PO:0009009	embryo	germination stage	GYZ-CK-1d-1 treatment	
+ERR556905	PO:0009010	seed		Oilseed rape line 'Drakkar'	
+ERR556906	PO:0009010	seed		Oilseed rape line 'Grizzly'	
+ERR556908	PO:0009010	seed		Oilseed rape line 'Shen-Li Jutsaj'	
+ERR556911	PO:0009010	seed		Oilseed rape line 'Cubs Root'	
+ERR556927	PO:0009010	seed		Oilseed rape line 'Couve nabica'	
+ERR556933	PO:0009010	seed		Oilseed rape line 'Judzae'	
+SRR5715248	PO:0000003	whole plant	seedling stage	Wild-type ZS11_4_rep1	
+SRR5715252	PO:0000003	whole plant	seedling stage	ZS11 _W_4_rep3	
+SRR5715257	PO:0000003	whole plant	seedling stage	Transformants K15_40_rep2	
+SRR5040655	PO:0025034	leaf	21 days	Hybrid_2016002 cultivar	
+SRR5040663	PO:0025034	leaf	21 days	AP8308180101_S7 cultivar	
+SRR4241885	PO:0025034	leaf	seedling dev stage	ZS11 cultivar	
+SRR3224102	PO:0025034	leaf	zadoks growth scale stage 13	F1_Hybrids cultivar	
+SRR3134017	PO:0025034	leaf	vegetative- rosette	Milena cultivar	
+SRR3134058	PO:0025034	leaf	vegetative- rosette	Sansibar cultivar	
+SRR3134065	PO:0025034	leaf	vegetative- rosette	Falstaff cultivar	
+SRR3134075	PO:0025034	leaf	vegetative- rosette	SLM 0512 cultivar	
+SRR3134077	PO:0025034	leaf	vegetative- rosette	Beluga cultivar	
+SRR3134079	PO:0025034	leaf	vegetative- rosette	Ascona cultivar	
+SRR3134083	PO:0025034	leaf	vegetative- rosette	Express 617 cultivar	
+SRR3134084	PO:0025034	leaf	vegetative- rosette	Jessica cultivar	
+SRR3134092	PO:0025034	leaf	vegetative- rosette	Amber coloured Comanche double haploid line	
+SRR3134113	PO:0025034	leaf	vegetative- rosette	Maplus cultivar	
+SRR3134116	PO:0025034	leaf	vegetative- rosette	Jet Neuf cultivar	
+SRR3134124	PO:0025034	leaf	vegetative- rosette	RESYN-H048 cultivar	
+SRR3134133	PO:0025034	leaf	vegetative- rosette	Dippes cultivar	
+SRR3134136	PO:0025034	leaf	vegetative- rosette	Gross-Luesewitzer cultivar	
+SRR3134153	PO:0025034	leaf	vegetative- rosette	Moldavia cultivar	
+SRR3134158	PO:0025034	leaf	vegetative- rosette	Ramses cultivar	
+SRR3134183	PO:0025034	leaf	vegetative- rosette	Nunsdale cultivar	
+SRR3134186	PO:0025034	leaf	vegetative- rosette	Silona cultivar	
+SRR3134193	PO:0025034	leaf	vegetative- rosette	RAGGED JACK cultivar	
+SRR3134208	PO:0025034	leaf	vegetative- rosette	SWU Chinese 3 cultivar	
+SRR3134218	PO:0025034	leaf	vegetative- rosette	COMET cultivar	
+SRR3134231	PO:0025034	leaf	vegetative- rosette	DUX cultivar	
+SRR3134232	PO:0025034	leaf	vegetative- rosette	ERGLU cultivar	
+SRR3134233	PO:0025034	leaf	vegetative- rosette	HELIOS cultivar	
+SRR3134236	PO:0025034	leaf	vegetative- rosette	MAZOWIECKI cultivar	
+SRR3134240	PO:0025034	leaf	vegetative- rosette	Alku cultivar	
+SRR3134247	PO:0025034	leaf	vegetative- rosette	Nugget cultivar	
+SRR3134256	PO:0025034	leaf	vegetative- rosette	Tower cultivar	
+SRR3134258	PO:0025034	leaf	vegetative- rosette	Ability cultivar	
+SRR3134262	PO:0025034	leaf	vegetative- rosette	Magma cultivar	
+SRR3134275	PO:0025034	leaf	vegetative- rosette	Callypso cultivar	
+SRR3134295	PO:0025034	leaf	vegetative- rosette	Kruglik cultivar	
+SRR3134305	PO:0025034	leaf	vegetative- rosette	Miyauchi Na cultivar	
+SRR3134351	PO:0025034	leaf	vegetative- rosette	PIKE cultivar	
+SRR3134355	PO:0025034	leaf	vegetative- rosette	Altasweet cultivar	
+SRR3134358	PO:0025034	leaf	vegetative- rosette	Conqueror Bronze Green Top cultivar	
+SRR3134361	PO:0025034	leaf	vegetative- rosette	Parkside cultivar	
+SRR3134365	PO:0025034	leaf	vegetative- rosette	Tankard Bronze Top cultivar	
+SRR3134367	PO:0025034	leaf	vegetative- rosette	Tina cultivar	
+SRR3134394	PO:0025034	leaf	vegetative- rosette	Vision cultivar	
+SRR3138272	PO:0025034	leaf	vegetative- rosette	DUX cultivar	
+SRR3584242	PO:0025034	leaf			
+SRR3088683	PO:0025034	leaf	21 days	Apex cultivar	
+SRR3088685	PO:0025034	leaf	21 days	Xiangyou15 cultivar	
+SRR3088692	PO:0025034	leaf	21 days	zhongshuangII cultivar	
+SRR3088726	PO:0025034	leaf	21 days	Darmor cultivar	
+SRR3088729	PO:0025034	leaf	21 days	Darmor cultivar	
+SRR3088734	PO:0025034	leaf	21 days	Dwarf Essex cultivar	
+SRR3088740	PO:0025034	leaf	21 days	ERGLU cultivar	
+SRR3088755	PO:0025034	leaf	21 days	Norin cultivar	
+SRR3088756	PO:0025034	leaf	21 days	Norin cultivar	
+SRR3088778	PO:0025034	leaf	21 days	RAGGED JACK cultivar	
+SRR3088786	PO:0025034	leaf	21 days	Sensation cultivar	
+SRR3088800	PO:0025034	leaf	21 days	Stellar cultivar	
+SRR3088811	PO:0025034	leaf	21 days	Tapidor cultivar	
+SRR3088813	PO:0025034	leaf	21 days	Verona cultivar	
+SRR3088822	PO:0025034	leaf	21 days	vVge cultivar	
+SRR3548053	PO:0006473	anther	flowering period	SaNa-1A cultivar	
+SRR3571660	PO:0020030	cotyledon		Ten days-old seedling of the susceptible cultivar Darmor-bzh were inoculated with 10µl of inoculum (107 pycnidiospores/ml) at a needle puncture. Inoculated plants were incubated in darkness for 48h at room temperature under saturated humidity	
+SRR3571667	PO:0009047	stem		Adult plants of the susceptible cultivar Eurol were inoculated 22 days after sowing at the three leaves development stage. The petiole of the second leaf was cut off at 1 cm from the leaf insertion and 10µl of inoculum (107 pycnidiospores/ml) was placed	
+SRR4097553	PO:0025034	leaf		Qinyou 10 cultivar. Cultivated under low boron hydroponic culture conditions for 10 days.	
+SRR4098466	PO:0025034	leaf		Westar 10 cultivar. Cultivated under low boron hydroponic culture conditions for 10 days.	
+SRR4098539	PO:0025034	leaf		Westar 10 cultivar. Cultivated under low boron hydroponic culture conditions for 10 days.	
+SRR7550104	PO:0006473	anther	budding stage	Tissue sample 23	
+SRR7550118	PO:0006473	anther	budding stage	Tissue sample 20	
+SRR7058996	PO:0009047	stem	not applicable	Stems in high stem strength accessions during flowering replicate 2	
+SRR7058999	PO:0009047	stem	not applicable	Stems in high stem strength accessions during flowering replicate 3	
+SRR7059004	PO:0009047	stem	not applicable	Stems in low stem strength accessions during silique developing replicate 3	
+SRR5590960	PO:0009088	seed coat	21 days after flowering	"No.2127-17 cultivar, biological replicate 2"	
+SRR5591412	PO:0009088	seed coat	28 days after flowering	"No.2127-17 cultivar, biological replicate 1"	
+SRR5885452	PO:0009084	pericarp	not collected	Biological replicate 1	
+SRR5885453	PO:0006470	carpel	not collected	Biological replicate 1	
+SRR5885455	PO:0003006	root	not collected	Biological replicate 1	
+SRR9037397	PO:0008037	seedling aerial	8 days after sowing	Garnet ecotype	
+SRR9037452	PO:0025034	leaf 	22 days after sowing	Sapphire 1 ecotype	
+SRR3088758	PO:0025034	leaf	21 days after flowering	Palmedor cultivar	
+SRR4098460	PO:0025034	leaf 	not applicable	Westar 10 cultivar. Cultivated under low boron hydroponic culture conditions for 10 days	
+SRR3134332	PO:0025034	leaf	vegetative- rosette	Vega cultivar	
+SRR3224099	PO:0025034	leaf	zadoks 13	CMS Ogu-INRA cultivar	
+SRR3134029	PO:0025034	leaf	vegetative- rosette	Pacific cultivar	
+SRR3134109	PO:0025034	leaf	vegetative- rosette	Samourai cultivar	
+SRR3134271	PO:0025034	leaf	vegetative- rosette	Altex cultivar	
+SRR9037466	PO:0025034	leaf 	22 days after sowing	Westar 10 x Sapphire 10 cultivar	
+SRR8739444	PO:0003006	root	10 days		
+SRR9037428	PO:0025034	leaf 	22 days after sowing	Garnet ecotype	
+SRR5358936	PO:0020030	cotyledon	7 days	Westar genotype. Leptosphaeria maculans inoculation treatment.	
+SRR5358964	PO:0020030	cotyledon	7 days	TRlm2 genotype. Leptosphaeria maculans inoculation treatment.	
+SRR9010584	PO:0025034	leaf	50 days	2016TSG10 winter type	
+SRR3134073	PO:0025034	leaf	vegetative- rosette	Zephir cultivar	
+SRR12208275	PO:0003006	root		Control treatment	
+SRR12208280	PO:0020148	shoot		Pseudomonas chlororaphis PA23 treatment	
+SRR12208283	PO:0020148	shoot		Control treatment	
+SRR11184926	PO:0009010	seed	36h	China_2 ecotype	
+SRR3134044	PO:0025034	leaf	vegetative- rosette	Lipton cultivar	
+SRR9974933	PO:0025034	leaf	"56 days, vegetative dev stage"	ARS312 cultivar. Plants were grown under greenhouse conditions for 4 weeks with a 16 hr photoperiod and then transferred to 5C with a 12 hr photoperiod for 4 weeks.	
+SRR3134038	PO:0025034	leaf	vegetative- rosette	Idol cultivar	
+SRR3134330	PO:0025034	leaf	vegetative- rosette	Triton cultivar	
+SRR3088804	PO:0025034	leaf	21 days	Taisetsu cultivar	
+SRR10019834	PO:0025034	leaf	not collected	C18 cultivar. Biological replicate 1. CK for -2_ in C18 treatment	
+SRR8770985	PO:0025034	leaf	21 days	Hanna variety	
+SRR5040645	PO:0025034	leaf	21 days	Kubanskij_S6 cultivar	
+SRR3134297	PO:0000014	leaf	vegetative- rosette	Lirasol cultivar	
+SRR9037438	PO:0025034	leaf	22 days after sowing	Westar 10 cultivar	
+SRR9037444	PO:0025034	leaf	22 days after sowing	0052 x Gar cultivar	
+SRR10070426	PO:0003006	root	S_24 hpi_3 dev stage		
+SRR5358932	PO:0020030	cotyledon	7 days	Westar genotype. Leptosphaeria maculans inoculation treatment.	
+SRR10090705	PO:0025034	leaf	young	Brassica napus cultivar	
+SRR948832				N119 cultivar	
+SRR8816586	PO:0009032	leaf	full-bloom dev stage	ZS11 cultivar	
+SRR9974940	PO:0025034	leaf	70 days	ARS312 variety. Plants were grown under greenhouse conditions for 4 weeks with a 16 hr photoperiod and then transferred to 5C with a 12 hr photoperiod for 4 weeks.	
+SRR10019836	PO:0025034	leaf	not collected	C18 cultivar. Biological replicate 1. CK for -2_ in C18 treatment	
+SRR9974937	PO:0025034	leaf	56 days	ARS312 variety. Plants were grown under greenhouse conditions for 4 weeks with a 16 hr photoperiod and then transferred to 5C with a 12 hr photoperiod for 4 weeks.	
+SRR9974942	PO:0025034	leaf	28 days	ARS189 variety. Plants were grown under greenhouse conditions for 4 weeks with a 16 hr photoperiod.	
+SRR3224186	PO:0025034	leaf		F1_Hybrids cultivar	
+SRR3134300	PO:0000014	leaf	vegetative- rosette	Lisandra cultivar	
+SRR9037434	PO:0025034	leaf	22 days after sowing	Gar x 0052 cultivar	
+SRR8836946	PO:0025034	leaf	missing	Treated at -4 degree celsius	
+SRR3088747	PO:0025034	leaf	21 days	Huguenot cultivar	
+SRR3134160	PO:0025034	leaf	vegetative- rosette	Skrzeszowicki cultivar	
+SRR948834				N119 cultivar	
+SRR8770983	PO:0025034	leaf	21 days	Imola cultivar	
+SRR9037454	PO:0025034	leaf	22 days after sowing		
+SRR8816580	PO:0025034	leaf	full-bloom stage	ZS11 cultivar	
+SRR1915982	PO:0025034	leaf	23 days	WS126 cultivar	
+SRR10070435	PO:0003006	root	R_96 hpi_3 dev stage		
+SRR3088774	PO:0025034	leaf	21 days	Baltia cultivar	
+SRR9037417	PO:0008037	seedling aerial	8 days after sowing	NX0052 cultivar	
+SRR9037432	PO:0025034	leaf	22 days after sowing	Sap1 x Wes10 cultivar	
+SRR9037457	PO:0025034	leaf	22 days after sowing	0052 x Gar cultivar	
+SRR5040658	PO:0025034	leaf	21 days	Elgar cultivar	
+SRR3134387	PO:0025034	leaf	vegetative- rosette	Ningyou 7 cultivar	
+SRR9037395	PO:0008037	seedling aerial	8 days after sowing	Sapphire 1 ecotype	
+SRR5358931	PO:0020030	cotyledon	7 days	Westar cultivar. Leptosphaeria maculans inoculation treatment.	
+SRR9974935	PO:0025034	leaf	70 days	ARS312 cultivar. Plants were grown under greenhouse conditions for 4 weeks with a 16 hr photoperiod and then transferred to 5C with a 12 hr photoperiod for 4 weeks then transferred to 5C with a 12 hr photoperiod for 4 weeks then moved to a growth chamber for 2 weeks at 10C with a 10 hr photoperiod.	
+SRR3134022	PO:0025034	leaf	vegetative- rosette	Lord cultivar	
+SRR3134254	PO:0025034	leaf	vegetative- rosette	Fido cultivar	
+SRR5358946	PO:0020030	cotyledon	7 days	T35SBLMR1.2 cultivar. Leptosphaeria maculans inoculation.	
+SRR8836928	PO:0025034	leaf	missing	Treated at -4 degree celsius	
+SRR10015160	PO:0025034	leaf	two-leaf stage	ZS11 cultivar	
+SRR10896603	PO:0009010	seed	180 days	Hua Shuang NO.4 pod stage	
+SRR10096794	PO:0009010	seed			
+SRR9165099	PO:0009010	seed	seeds from 1 to 6 weeks after flowering	DH-G-42 type	
+SRR10070424	PO:0003006	root	S_60 hpi_1 dev stage		
+SRR8816587	PO:0009032	petal	full-bloom stage		
+SRR9037470	PO:0025034	leaf	22 days after sowing	Garnet cultivar	
+SRR9037449	PO:0025034	leaf	22 days after sowing	Wes10 x Sap1 cultivar	
+SRR10070415	PO:0003006	root	R_24 hpi_1		
+SRR9010586	PO:0025034	leaf 	50 days		
+SRR9037437	PO:0025034	leaf	22 days after sowing	Westar 10 cultivar	
+SRR9037478	PO:0008037	seedling aerial	4 days after sowing	Sapphire 1 cultivar	
+SRR9974923	PO:0025034	leaf	70 days	ARS312 culticar. Plants were grown under greenhouse conditions for 4 weeks with a 16 hr photoperiod and then transferred to 5C with a 12 hr photoperiod for 4 weeks then transferred to 5C with a 12 hr photoperiod for 4 weeks then moved to a growth chamber for 2 weeks at 10C with a 10 hr photoperiod.	
+SRR8836925	PO:0025034	leaf	missing	Treated at 4 degree celsius	
+SRR8836934	PO:0025034	leaf	missing	Treated at 4 degree celsius for 12 hrs over 14 days	
+SRR3134117	PO:0025034	leaf	vegetative- rosette	Cobra cultivar	
+SRR5358955	PO:0020030	cotyledon	7 days	T35SBLMR1.1 genotype. Leptosphaeria maculans inoculation treatment.	
+SRR10556462	PO:0020148	shoot	40 days	Zheyou 29 semi-winter type. mRNA_shoot control_3.	
+SRR9037398	PO:0008037	seedling aerial	4 days after sowing	Sapphire 1 genotype	
+SRR9037406	PO:0008037	seedling aerial	4 days after sowing	Gar x 0052 genotype	
+SRR9038797	PO:0025034	leaf	vegetative phase	Semi-winter type	
+SRR10096786	PO:0009010	seed			
+SRR10015155	PO:0025034	leaf	two-leaf stage	ZS11 cultivar	
+SRR3088741	PO:0025034	leaf	21 days	Apex cultivar	
+SRR3088803	PO:0025034	leaf	21 days	Stellar cultivar	
+SRR10019831	PO:0025034	leaf	two-leaf stage	C18 variety	
+SRR8836918	PO:0025034	leaf	missing	Missing	
+SRR8816582	PO:0020107	fruit 	full-bloom stage		
+SRR5358971	PO:0020030	cotyledon	7 days	TBLMR1.1 genotype. Leptosphaeria maculans inoculation treatment.	
+SRR9974943	PO:0025034	leaf	63 days old	ARS312 cultivar. Plants were grown under greenhouse conditions for 4 weeks with a 16 hr photoperiod and then transferred to 5C with a 12 hr photoperiod for 4 weeks then transferred to 5C with a 12 hr photoperiod for 4 weeks then moved to a growth chamber for 2 weeks at 10C with a 10 hr photoperiod.	
+SRR9037410	PO:0008037	seedling aerial	8 days after sowing	Sapphire 1 cultivar	
+SRR9037483	PO:0008037	seedling aerial	4 days after sowing	Wes10 x Sap1 cultivar	
+SRR8816581	PO:0000055	bud	full-bloom stage	ZS11 cultivar	
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
